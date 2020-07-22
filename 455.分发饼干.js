@@ -31,5 +31,3 @@ var findContentChildren = function(g, s) {
     return res;
 };
 // @lc code=end
-
-console.log(findContentChildren([1, 2, 3], [3]))
